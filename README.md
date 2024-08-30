@@ -1,4 +1,8 @@
-- 👋 Olá, sou @jojo114548
+ Oie! Sou Josiane 👋
+ 
+💻Atendente de Telemarketing -Receptivo 🏠Brasileira 🌍Maceió-AL✈️Brasil
+
+
 - 💻 Atualmente trabalhando com telemarketing Receptivo 
 - 👀 Estou interessado em Fullstack
 - 📖 Estudando tecnico de informatica para web 
