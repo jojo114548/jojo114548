@@ -1,6 +1,15 @@
-<h1 align="left">Oie! Sou Josiane 👋</h1>
+<h1 align="left">Oie! Sou Josiane 👋</h1><div align="center"> <img align="right" height="200" src="https://blog.formacao.dev/content/images/size/w600/format/webp/2024/01/GitHub.png"  />
+
 
 ###
+
+</div>
+
+###
+
+
+###
+
 
 <h2 align="center">💻Atendente de Telemarketing -Receptivo]🏠Brasileira 🌍Maceió-AL✈️Brasil</h2>
 
