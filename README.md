@@ -1,14 +1,12 @@
 <div align="center">
-  <img height="141" src="https://blog.formacao.dev/content/images/size/w600/format/webp/2024/01/GitHub.png"  />
+  <img height="173" src="https://blog.formacao.dev/content/images/size/w600/format/webp/2024/01/GitHub.png"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <h1 align="left">Oie! Sou Josiane 👋</h1>
-
-###
-
-<h3 align="left">💻Atendente de Telemarketing -Receptivo]🏠Brasileira 🌍Maceió-AL✈️Brasil</h3>
 
 ###
 
@@ -22,7 +20,11 @@
 
 ###
 
-<h3 align="left">💻 Estou interessado em Pogramação<br><br>📖 Atualmente estou cursando técnico de informática para web<br><br>🎯Full stack</h3>
+<h3 align="left"></h3>
+
+###
+
+<h3 align="left">💻 Estou interessado em Pogramação<br>📖 Atualmente estou cursando técnico de informática para web<br>🎯Full stack<br>🏠Brasileira <br>🌍Maceió-AL<br>✈️Brasil<br>🎧Atendente de Telemarketing -Receptivo]</h3>
 
 ###
 
