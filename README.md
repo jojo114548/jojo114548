@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="205" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
+  <img height="243" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">💻 Estou interessada em Pogramação<br>📖 Atualmente estou cursando técnico de informática para web<br>🎯Full stack<br>🏠Brasileira <br>🌍Maceió-AL<br>✈️Brasil<br>🎧Atendente de Telemarketing -Receptivo]</h3>
+<h3 align="left">💻 Estou interessado em Pogramação<br>📖 Atualmente estou cursando técnico de informática para web<br>🎯Full stack<br>🏠Brasileira <br>🌍Maceió-AL<br>✈️Brasil<br>🎧Atendente de Telemarketing -Receptivo]</h3>
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
- 
+  <img height="173" src=""  />
 </div>
 
 ###
