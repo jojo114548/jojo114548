@@ -43,16 +43,17 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojo114548&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="143" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="141" src="https://cliply.co/wp-content/uploads/2021/09/472109160_BYE_STICKER_400px.gif"  />
+  <img height="170" src="https://cliply.co/wp-content/uploads/2021/09/472109160_BYE_STICKER_400px.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jojo114548.jojo114548&left_color=darkorchid&left_text=VOLTE%20SEMPRE%20%E2%9D%A4%EF%B8%8F"  />
