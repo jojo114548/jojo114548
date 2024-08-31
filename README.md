@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">Me encontre por aqui ! 😉</h2>
+<h1 align="left">Me encontre por aqui ! 😉</h1>
 
 ###
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img height="170" src="https://cliply.co/wp-content/uploads/2021/09/472109160_BYE_STICKER_400px.gif"  />
+  <img height="165" src="https://cliply.co/wp-content/uploads/2021/09/472109160_BYE_STICKER_400px.gif"  />
 </div>
 
 ###
