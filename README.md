@@ -1,4 +1,4 @@
-<h1 align="center">Oie! Sou Josiane 👋</h1>
+<h1 align="left">Oie! Sou Josiane 👋</h1>
 
 ###
 
@@ -44,7 +44,12 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jojo114548&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&order=1" height="143" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojo114548&radius=5&theme=material-palenight&area=true&order=5" height="277" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="141" src="https://cliply.co/wp-content/uploads/2021/09/472109160_BYE_STICKER_400px.gif"  />
 </div>
 
 ###
