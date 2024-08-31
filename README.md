@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">💻Atendente de Telemarketing -<br>Receptivo]<br> 🏠Brasileira <br>🌍Maceió-AL<br>✈️Brasil</h2>
+<h2 align="center">💻Atendente de Telemarketing -Receptivo]🏠Brasileira 🌍Maceió-AL✈️Brasil</h2>
 
 ###
 
