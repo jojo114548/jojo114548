@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Oi! Sou Josiane 👋</h1>
+<h1 align="left">Oie! Sou Josiane 👋</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">💻 Estou interessado em Pogramação<br>📖 Atualmente estou cursando técnico de informática para web<br>🎯Full stack<br>🏠Brasileira <br>🌍Maceió-AL<br>✈️Brasil<br>🎧Atendente de Telemarketing -Receptivo]</h3>
+<h3 align="left">💻 Estou interessado em Pogramação<br>📖 Atualmente estou cursando técnico de informática para web<br>🎯Full stack<br>🏠Brasileira 🌍Maceió-AL✈️Brasil<br>🎧Atendente de Telemarketing -Receptivo]</h3>
 
 ###
 
