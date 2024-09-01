@@ -4,12 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="left"></h1>
-
-###
-
 <div align="center">
   <img height="306" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
@@ -17,10 +11,6 @@
 ###
 
 <h1 align="left">About me</h1>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
@@ -48,6 +38,10 @@
 
 ###
 
+<h3 align="left"></h3>
+
+###
+
 <div align="center">
   <img height="200" src="https://blog.formacao.dev/content/images/size/w600/format/webp/2024/01/GitHub.png"  />
 </div>
@@ -63,5 +57,11 @@
 <div align="center">
   <img height="50" src="https://cdn.dribbble.com/users/1354693/screenshots/9961673/media/0a2ee90d8bd2210fb228caddc8d9d721.gif"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="left"></h1>
 
 ###
