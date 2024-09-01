@@ -1,6 +1,12 @@
+<div align="center">
+  <img height="202" src="https://logos.textgiraffe.com/logos/logo-name/Josiane-designstyle-birthday-m.png"  />
+</div>
+
+###
+
 <br clear="both">
 
-<h1 align="left">Oie! Sou Josiane 👋</h1>
+<h1 align="left"></h1>
 
 ###
 
