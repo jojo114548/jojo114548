@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🏠Brasileira 🌍Maceió-AL✈️Brasil<br><br>💻 Estou interessado em Pogramação<br><br>📖 Atualmente estou cursando técnico de informática para web<br><br>🎯Full stack<br><br>🎧Atendente de Telemarketing -Receptivo]</h3>
+<h3 align="left">•🏠Brasileira 🌍Maceió-AL✈️Brasil<br><br>•💻 Estou interessado em Pogramação<br><br>•📖 Atualmente estou cursando técnico de informática para web<br><br>•🎯Full stack<br><br>•🎧Atendente de Telemarketing -Receptivo]</h3>
 
 ###
 
