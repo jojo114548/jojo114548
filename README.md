@@ -14,7 +14,11 @@
 
 ###
 
-<h3 align="left">• 🌍Brasileira 🏠Maceió-AL ✈️Brasil<br><br>• 💻 Interesse em Programação<br><br>• 📖 Atualmente estou cursando técnico de informática para web<br><br>• 🎯Full stack<br><br>• 🎧Atendente de Telemarketing -Receptivo</h3>
+<h3 align="left">Buscando oportunidade de estágio como Desenvolvedor Jr. Atualmente cursando Técnico em Informática para Web no SENAI/AL, com foco em desenvolvimento front-end e back-end.
+  
+Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing, função que me proporciona habilidades em comunicação, foco no cliente, resolução de problemas e trabalho em equipe.
+
+Busco aplicar meus conhecimentos de programação em projetos reais, aprender com profissionais experientes e contribuir para soluções inovadoras na área de tecnologia.</h3>
 
 ###
 
@@ -23,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+  <a href="[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
