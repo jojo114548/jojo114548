@@ -31,10 +31,10 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.designi.com.br%2Fed8D9&psig=AOvVaw0lBCh8oCj2bGkqyTCaWw1W&ust=1759272894952000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKio2KKI_48DFQAAAAAdAAAAABAE" height="40" alt="instagram logo"  />
+    <img src="https://img.cdndsgni.com/preview/10000147.jpg" height="40" alt="instagram logo"  />
   </a>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng-gratis%2Fgmail-logo&psig=AOvVaw3oYki2GSSZuBBX0aCjkj04&ust=1759272956241000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDtnbuI_48DFQAAAAAdAAAAABAL" height="40" alt="gmail logo"  />
+    <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  />
   </a>
 </div>
 
