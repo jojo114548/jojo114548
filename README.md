@@ -27,7 +27,7 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/)" target="_blank">
+  <a href="https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/" target="_blank">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw2T3chg-QAykqbd28Z_QA1t&ust=1759272656929000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOikqbyH_48DFQAAAAAdAAAAABAE" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
