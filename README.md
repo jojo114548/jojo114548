@@ -31,7 +31,7 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
-    <img src="https://img.cdndsgni.com/preview/10000147.jpg" height="40" alt="instagram logo"  />
+    <img src="https://www.espigaodoeste.ro.leg.br/LogoInstagram.png/image" height="40" alt="instagram logo"  />
   </a>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  />
@@ -45,8 +45,21 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
 ###
 
-<h3 align="left"></h3>
+<h2 align="left">Tecnologias 😉</h2>
 
+###
+
+<div align="left">
+ <ul>
+    <li>   <img src="https://previews.123rf.com/images/aiart30/aiart302303/aiart30230304243/204530846-hospital-shield-flat-icon-orange-pictogram-on-transparent-background-vector-illustration.jpg" height="40" alt="gmail logo"  /></li>
+     <li>   <img src="https://e7.pngegg.com/pngimages/938/646/png-clipart-web-development-responsive-web-design-html-css3-cascading-style-sheets-others-miscellaneous-blue-thumbnail.png" height="40" alt="gmail logo"  /></li>
+     <li>   <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  /></li>
+     <li>   <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  /></li>
+     <li>   <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  /></li>
+</ul>
+</div>
+
+###
 ###
 
 <div align="center">
