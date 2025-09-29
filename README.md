@@ -14,13 +14,13 @@
 
 ###
 
-<h3 align="left">Buscando oportunidade de estágio como Desenvolvedor Jr. Atualmente cursando Técnico em Informática para Web no SENAI/AL, com foco em desenvolvimento front-end e back-end.
+<h3 align="left">Buscando oportunidade de estágio como **Desenvolvedor Jr.** Atualmente cursando **Técnico em Informática para Web no SENAI/AL**, com foco em desenvolvimento front-end e back-end.
   
-Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing, função que me proporciona habilidades em comunicação, foco no cliente, resolução de problemas e trabalho em equipe.
+Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing, função que me proporciona habilidades em **comunicação, foco no cliente, resolução de problemas e trabalho em equipe**.
 
 Busco aplicar meus conhecimentos de programação em projetos reais, aprender com profissionais experientes e contribuir para soluções inovadoras na área de tecnologia.</h3>
 
-###
+---
 
 <h2 align="left">Me encontre aqui! 😉</h2>
 
@@ -33,34 +33,27 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
     <img src="https://www.espigaodoeste.ro.leg.br/LogoInstagram.png/image" height="40" alt="instagram logo"  />
   </a>
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <a href="mailto:seuemail@gmail.com" target="_blank">
     <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-###
+---
 
-<div align="left">
-</div>
-
-###
-
-<h2 align="left">Tecnologias 😉</h2>
+<h2 align="left">Tecnologias 💻</h2>
 
 ###
 
 <div align="left">
- <ul>
-    <li>   <img src="https://previews.123rf.com/images/aiart30/aiart302303/aiart30230304243/204530846-hospital-shield-flat-icon-orange-pictogram-on-transparent-background-vector-illustration.jpg" height="40" alt="gmail logo"  /></li>
-     <li>   <img src="https://e7.pngegg.com/pngimages/938/646/png-clipart-web-development-responsive-web-design-html-css3-cascading-style-sheets-others-miscellaneous-blue-thumbnail.png" height="40" alt="gmail logo"  /></li>
-     <li>   <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  /></li>
-     <li>   <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  /></li>
-     <li>   <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="40" alt="gmail logo"  /></li>
-</ul>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
-###
-###
+---
 
 <div align="center">
   <img height="200" src="https://blog.formacao.dev/content/images/size/w600/format/webp/2024/01/GitHub.png"  />
@@ -83,5 +76,3 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 <br clear="both">
 
 <h1 align="left"></h1>
-
-###
