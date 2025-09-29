@@ -8,17 +8,69 @@
   <img height="306" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
-###
+---
 
 <h1 align="left">About me</h1>
 
 ###
 
-<h3 align="left">Buscando oportunidade de estágio como **Desenvolvedor Jr.** Atualmente cursando **Técnico em Informática para Web no SENAI/AL**, com foco em desenvolvimento front-end e back-end.
+<h3 align="left">Buscando oportunidade de estágio como **Desenvolvedor Jr.** Atualmente cursando **Técnico em Informática para Web no SENAI/AL**, com foco em desenvolvimento front-end e back-end. Foco principal em **JavaScript** e no ecossistema **Python**.
   
-Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing, função que me proporciona habilidades em **comunicação, foco no cliente, resolução de problemas e trabalho em equipe**.
+Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing. Minha experiência me proporcionou um forte desenvolvimento em **Comunicação**, **Resolução de Problemas** e **Foco no Cliente** — habilidades essenciais que aplico na área de desenvolvimento.
 
 Busco aplicar meus conhecimentos de programação em projetos reais, aprender com profissionais experientes e contribuir para soluções inovadoras na área de tecnologia.</h3>
+
+---
+
+<h2 align="left">Tecnologias 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="80" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="80" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="80" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="80" alt="Figma" />
+</div>
+
+---
+
+<h2 align="left">Meus Projetos em Destaque 🌟</h2>
+
+<div align="center">
+  
+  <h3>Biblioteca Virtual</h3>
+  <a href="https://github.com/jojo114548/BibliotecaVirtual-Backend.git" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQG1xzPlzlfRWA/feedshare-shrink_1280/B4DZl3E8h8GgAs-/0/1758639420530?e=1761782400&v=beta&t=Oe5Ht-2M6iRyacd6h0e-0T7kRaeWQ6KS3Kn2NG3xiUA" alt="Screenshot do Projeto 1" width="400"/>
+  </a>
+  <p>
+    Breve descrição do projeto. Ex: "Aplicação web simples para uma "Biblioteca Virtual",desenvolvida em Python usando o framework Flask."
+    <br/>
+    Tecnologias: HTML5 | CSS3 | JavaScript | Python | Flask | Brootstrap 5
+  </p>
+  <br>
+
+  <h3>TheDogApi</h3>
+  <a href="https://github.com/jojo114548/TheDogApi.git" target="_blank">
+    <img src="LINK_DO_OUTRO_GIF_OU_IMAGEM_DO_PROJETO" alt="Screenshot do Projeto 2" width="400"/>
+  </a>
+  <p>
+    Breve descrição do projeto. Ex: "Aplicação desenvolvida para praticar o consumo de Apis"
+    <br/>
+    Tecnologias:  HTML5 | CSS3 | JavaScript 
+  </p>
+</div>
+
+---
+
+<h2 align="left">Minhas Estatísticas no GitHub 📈</h2>
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
+</div>
 
 ---
 
@@ -28,26 +80,14 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
 <div align="left">
   <a href="https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="60" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="80" alt="linkedin logo"  />
   </a>
-  <a href="mailto:josianelourenco2000@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="60" alt="gmail logo"  />
+  <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
+    <img src="https://www.espigaodoeste.ro.leg.br/LogoInstagram.png/image" height="80" alt="instagram logo"  />
   </a>
-</div>
-
----
-
-<h2 align="left">Tecnologias 💻</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="60" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="60" alt="Figma" />
+    <a href="mailto:josianelourenco2000@gmail.com" target="_blank"> 
+    <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="80" alt="gmail logo"  />
+  </a>
 </div>
 
 ---
