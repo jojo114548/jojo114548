@@ -8,7 +8,6 @@
   <img height="306" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  />
 </div>
 
----
 
 <h1 align="left">About me</h1>
 
@@ -54,8 +53,8 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
   <h3>TheDogApi</h3>
   <a href="https://github.com/jojo114548/TheDogApi.git" target="_blank">
-    <img src="<img width="1448" height="973" alt="Captura de tela 2025-09-29 205502" src="https://github.com/user-attachments/assets/903dc45e-6f98-4710-b1c6-a9412ef95976" />
-" alt="Screenshot do Projeto 2" width="150"/>
+    <img src="https://www.linkedin.com/feed/update/urn:li:activity:7376311736854937601/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxANu%2FAvNSXCyTn4ecFg36g%3D%3D" />
+
   </a>
   <p>
     Breve descrição do projeto. Ex: "Aplicação desenvolvida para praticar o consumo de Apis"
