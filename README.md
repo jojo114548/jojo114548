@@ -11,8 +11,6 @@
 
 <h1 align="left">About me</h1>
 
-
-
 <h3 align="left">Buscando oportunidade de estágio como **Desenvolvedor Jr.** Atualmente cursando **Técnico em Informática para Web no SENAI/AL**, com foco em desenvolvimento front-end e back-end. Foco principal em **JavaScript** e no ecossistema **Python**.
   
 Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing. Minha experiência me proporcionou um forte desenvolvimento em **Comunicação**, **Resolução de Problemas** e **Foco no Cliente** — habilidades essenciais que aplico na área de desenvolvimento.
@@ -37,9 +35,9 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
 <h2 align="left">Minhas Estatísticas no GitHub 📈</h2>
 
-<div align="center"  style="height="100%";">
+<div align="center"  style="height="100%;">
   
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
 </div>
 
@@ -50,6 +48,7 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
 
 <div align="left">
+  
   <a href="https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="80" alt="linkedin logo"  />
   </a>
