@@ -51,15 +51,15 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
   </p>
   <br>
 
-  <h3>TheDogApi</h3>
-  <a href="https://github.com/jojo114548/TheDogApi.git" target="_blank">
-    <img src="https://www.linkedin.com/feed/update/urn:li:activity:7376311736854937601/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxANu%2FAvNSXCyTn4ecFg36g%3D%3D" />
+  <h3>Vultures's Bank </h3>
+  <a href="https://github.com/davi-amorim-mendes/bugBank.git" target="_blank">
+    <img src="<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e9d6221-e8ed-4b4b-bb09-f4211da784c6" />
 
   </a>
   <p>
-    Breve descrição do projeto. Ex: "Aplicação desenvolvida para praticar o consumo de Apis"
+    Breve descrição do projeto. Ex: "Aplicação desenvolvida para praticar o consumo do Cypress"
     <br/>
-    Tecnologias:  HTML5 | CSS3 | JavaScript 
+    Tecnologias:  HTML5 | CSS3 | JavaScript | Cypress
   </p>
 </div>
 
@@ -68,8 +68,8 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 <h2 align="left">Minhas Estatísticas no GitHub 📈</h2>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
 </div>
 
 
@@ -82,9 +82,11 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
   <a href="https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="80" alt="linkedin logo"  />
   </a>
+    <br>
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
     <img src="https://www.espigaodoeste.ro.leg.br/LogoInstagram.png/image" height="80" alt="instagram logo"  />
   </a>
+  <br>
     <a href="mailto:josianelourenco2000@gmail.com" target="_blank"> 
     <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="80" alt="gmail logo"  />
   </a>
@@ -112,4 +114,4 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
 <br clear="both">
 
-<h1 align="left"></h1>
+
