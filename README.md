@@ -82,12 +82,12 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
   <a href="https://www.linkedin.com/in/josiane-ara%C3%BAjo-650629375/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="80" alt="linkedin logo"  />
   </a>
-    <br>
+ 
   <a href="https://www.instagram.com/jo_lourenco_2000/" target="_blank">
     <img src="https://www.espigaodoeste.ro.leg.br/LogoInstagram.png/image" height="80" alt="instagram logo"  />
   </a>
-  <br>
-    <a href="mailto:josianelourenco2000@gmail.com" target="_blank"> 
+ 
+   <a href="mailto:josianelourenco2000@gmail.com" target="_blank"> 
     <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" height="80" alt="gmail logo"  />
   </a>
 </div>
