@@ -35,55 +35,12 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 </div>
 
 
-
-<h2 align="left">Meus Projetos em Destaque 🌟</h2>
-
-
-<div align="center">
-    <table style="width:100%; border:none; border-collapse: collapse;">
-        <tr>
-            <td style="width:50%; padding: 10px; border:none;">
-                <kbd>
-                    <div align="center">
-                        <h3>Biblioteca Virtual</h3>
-  <a href="https://github.com/jojo114548/BibliotecaVirtual-Backend.git" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQG1xzPlzlfRWA/feedshare-shrink_1280/B4DZl3E8h8GgAs-/0/1758639420530?e=1761782400&v=beta&t=Oe5Ht-2M6iRyacd6h0e-0T7kRaeWQ6KS3Kn2NG3xiUA" alt="Screenshot do Projeto 1" width="150"/>
-  </a>
-  <p>
-    Breve descrição do projeto. Ex: "Aplicação web simples para uma "Biblioteca Virtual",desenvolvida em Python usando o framework Flask."
-    <br/>
-    Tecnologias: HTML5 | CSS3 | JavaScript | Python | Flask | Brootstrap 5
-  </p>
-                    </div>
-                </kbd>
-            </td>
-
-  <td style="width:50%; padding: 10px; border:none;">
-                <kbd>
-                    <div align="center">
-                        <h3>Vultures's Bank </h3>
-  <a href="https://github.com/davi-amorim-mendes/bugBank.git" target="_blank">
-    <img src="<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e9d6221-e8ed-4b4b-bb09-f4211da784c6" />
-
-  </a>
-  <p>
-    Breve descrição do projeto. Ex: "Aplicação desenvolvida para praticar o consumo do Cypress"
-    <br/>
-    Tecnologias:  HTML5 | CSS3 | JavaScript | Cypress
-  </p>
-                    </div>
-                </kbd>
-            </td>
-        </tr>
-    </table>
-</div>
-
-
 <h2 align="left">Minhas Estatísticas no GitHub 📈</h2>
 
-<div align="center"  style="width:100%; border:none; border-collapse: collapse;">
+<div align="center"  style="width:100%;">
+  
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
 </div>
 
 
