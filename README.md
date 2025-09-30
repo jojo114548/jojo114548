@@ -39,7 +39,7 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 
 <div align="center"  style="height="100%";">
   
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=jojo114548&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo114548&layout=compact&theme=default" alt="Top Languages"/>
 </div>
 
