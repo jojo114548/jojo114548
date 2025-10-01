@@ -32,8 +32,8 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="80" alt="Figma" />
 </div>
 
+<h1 align="left">Minhas Estatísticas no GitHub 📈</h1>
 
-<h2 align="left">Minhas Estatísticas no GitHub 📈</h2>
 
 <div align="center"  style="height="100%;">
   
