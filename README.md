@@ -9,7 +9,7 @@
 </div>
 
 
-<h1 align="left">About me</h1>
+<h1 align="left">Sobre</h1>
 
 <h3 align="left">Buscando oportunidade de estágio como **Desenvolvedor Jr.** Atualmente cursando **Técnico em Informática para Web no SENAI/AL**, com foco em desenvolvimento front-end e back-end. Foco principal em **JavaScript** e no ecossistema **Python**.
   
@@ -17,9 +17,9 @@ Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing. Minha
 
 Busco aplicar meus conhecimentos de programação em projetos reais, aprender com profissionais experientes e contribuir para soluções inovadoras na área de tecnologia.</h3>
 
+<h1 align="left">Tecnologias 💻</h1>
 
 
-<h2 align="left">Tecnologias 💻</h2>
 
 
 
@@ -42,8 +42,8 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
 </div>
 
 
+<h1 align="left">Me encontre aqui! 😉</h1>
 
-<h2 align="left">Me encontre aqui! 😉</h2>
 
 
 
@@ -53,7 +53,7 @@ Busco aplicar meus conhecimentos de programação em projetos reais, aprender co
     <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="80" alt="linkedin logo"  />
   </a>
  
-  <a href="" target="_blank">
+  <a href="https://wa.me/5582987308704" target="_blank">
     <img src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" height="80" alt="whatsapp logo"  />
   </a>
  
