@@ -11,11 +11,13 @@
 
 <h1 align="left">Sobre</h1>
 
-<h3 align="left">Buscando oportunidade de estágio como **Desenvolvedor Jr.** Atualmente cursando **Técnico em Informática para Web no SENAI/AL**, com foco em desenvolvimento front-end e back-end. Foco principal em **JavaScript** e no ecossistema **Python**.
-  
-Atualmente trabalho na Almaviva do Brasil como Atendente de Telemarketing. Minha experiência me proporcionou um forte desenvolvimento em **Comunicação**, **Resolução de Problemas** e **Foco no Cliente** — habilidades essenciais que aplico na área de desenvolvimento.
+<h3 align="left"> Olá! Sou a Josiane Araújo, profissional em transição de carreira para a área de Tecnologia. Atualmente, curso Ciência da Computação na UNINASSAU (Previsão: 2030) e sou formada como Técnica em Informática para Internet pelo SENAI/AL.
 
-Busco aplicar meus conhecimentos de programação em projetos reais, aprender com profissionais experientes e contribuir para soluções inovadoras na área de tecnologia.</h3>
+Busco oportunidades de Estágio ou posições como Desenvolvedora Júnior. Tenho foco em desenvolvimento Full Stack, com ênfase em JavaScript e no ecossistema Python (Flask), além de modelagem de dados com MySQL e PostgreSQL e prototipagem no Figma.
+
+Atualmente, trabalho na Almaviva do Brasil como Representante de Atendimento. Essa experiência me permitiu consolidar soft skills fundamentais, como comunicação assertiva, resolução de problemas complexos e foco total na experiência do cliente (UX) — competências que aplico diretamente na construção de softwares eficientes.
+
+ Meu objetivo é aplicar meus conhecimentos em cenários reais, aprender continuamente com times experientes e colaborar no desenvolvimento de soluções inovadoras.</h3>
 
 <h1 align="left">Tecnologias 💻</h1>
 
