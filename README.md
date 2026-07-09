@@ -11,13 +11,15 @@
 
 <h1 align="left">Sobre</h1>
 
-<h3 align="left"> Olá! Sou a Josiane Araújo, profissional em transição de carreira para a área de Tecnologia. Atualmente, curso Ciência da Computação na UNINASSAU (Previsão: 2030) e sou formada como Técnica em Informática para Internet pelo SENAI/AL.
+<h3 align="left">Olá! Sou Josiane Araújo, e estou construindo minha transição de carreira para Desenvolvimento Web . Curso Ciência da Computação na UNINASSAU e sou formada como Técnica em Informática para Web pelo SENAI/AL. No caminho, desenvolvi domínio prático em JavaScript, Python (Flask), modelagem de dados com MySQL e PostgreSQL, e prototipagem de interfaces em Figma.
 
-Busco oportunidades de Estágio ou posições como Desenvolvedora Júnior. Tenho foco em desenvolvimento Full Stack, com ênfase em JavaScript e no ecossistema Python (Flask), além de modelagem de dados com MySQL e PostgreSQL e prototipagem no Figma.
+  
 
-Atualmente, trabalho na Almaviva do Brasil como Representante de Atendimento. Essa experiência me permitiu consolidar soft skills fundamentais, como comunicação assertiva, resolução de problemas complexos e foco total na experiência do cliente (UX) — competências que aplico diretamente na construção de softwares eficientes.
+Antes da tecnologia, atuo há mais de 4 anos como Representante de Atendimento na Almaviva do Brasil — onde desenvolvi comunicação assertiva, resolução analítica de problemas e um olhar constante para experiência do usuário (UX). 
 
- Meu objetivo é aplicar meus conhecimentos em cenários reais, aprender continuamente com times experientes e colaborar no desenvolvimento de soluções inovadoras.</h3>
+
+
+Busco uma oportunidade de estágio em Desenvolvimento onde eu possa aprender com times experientes, contribuir com o que já sei e crescer tecnicamente todos os dias.</h3>
 
 <h1 align="left">Tecnologias 💻</h1>
 
